@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/walimahpatternback2"
+    android:orientation="vertical"
+    tools:context="id.hamasah.annisarif.fragment.TimeFragment">
+
+    <cn.iwgang.countdownview.CountdownView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:id="@+id/cv_countdownViewTest1"
+        android:visibility="gone"
+        app:isHideTimeBackground="false"
+        app:isShowDay="true"
+        app:isShowHour="true"
+        app:isShowMinute="true"
+        app:isShowSecond="true"
+        app:isShowMillisecond="false"
+        app:timeBgColor="@color/colorAccent"
+        app:timeTextColor="#ffffff"
+        app:timeTextSize="22sp"
+        app:isTimeTextBold="true"
+        app:suffixGravity="center"
+        app:suffixTextColor="#000000"
+        app:suffixTextSize="12sp"
+        app:suffixDay="Hari"
+        app:suffixHour="Jam"
+        app:suffixMinute="Menit"
+        app:suffixSecond="Detik"
+        app:suffixMillisecond="毫秒" />
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

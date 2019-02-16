@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\19f8395c9954a52036c29f4a46fab4f7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\countdownview-2.1.6.aar\d074c34739ea98bd0880a6a74da37691\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b11ad72435c28e7fbe77b9035647f55dbab4b697">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\easypermissions-1.0.1.aar\4ca5045b54ca04a97c44410574560232\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\2f283041e52fc16443d4317de831ef2c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\5601dfc8516a0cee70f29a674d3b33ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.2.7.aar\65cefb6b908908df06a4a8a7b2e6c6fd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38dc57bd3a0900f291f38e4786cde461aece5a9">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\abbdedb7b4169d0bc4f8757e6056ab87\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idn\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\12756f261dd627ff39504eab0d43b090\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\idn\AndroidStudioProjects\HACKATHON\AnnisArif\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+
+</items>

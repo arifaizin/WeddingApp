@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/thankscard" />
+
+        <TextView
+            android:id="@+id/editText3"
+            android:layout_width="171dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="WALIMAH APP"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:text="“Dan segala sesuatu Kami Ciptakan Berpasang – pasangan supaya kamu mengingat kebesaran Allah."
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingBottom="10dp"
+            android:theme="@style/CardView.Dark" />
+
+        <TextView
+            android:layout_width="167dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText2"
+            android:layout_gravity="center_horizontal"
+            android:text="(QS. Az- Zariyat Ayat 49)"
+            android:gravity="center|top"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="222dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText8"
+            android:layout_gravity="center_horizontal"
+            android:text="DEVELOPER"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp" />
+
+        <ImageView
+            android:layout_width="98dp"
+            android:layout_height="97dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/pespro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/editText9"
+            android:text="CodeName : #AAF"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="10dp" />
+    </LinearLayout>
+</ScrollView>

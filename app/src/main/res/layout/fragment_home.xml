@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/walimahpatternback2"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_marginBottom="200dp"
+            android:padding="8dp"
+            app:cardCornerRadius="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_marginBottom="?attr/actionBarSize"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Assalamu'alaikum wa rahmatullahi wa barakatuh\n"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Kami yang sama-sama mengharap cinta Allah \n
+Kemudian mengharapkan cinta dari seseorang yang juga mencintai Allah.
+Dengan harapan dapat semakin mendekatkan diri dari kecintaan Allah. \n
+Yang akhirnya... \n
+Dipertemukanlah putra-putri kami untuk menyatukan
+harapan dan cinta atas keridhaan-Nya"
+                    android:textAlignment="center"
+                    android:textSize="14dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/kittenswash"
+                    android:text="Trias Annisa Alfiana, S.Gz"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Putri Bapak H. Komarudin, M.Pd (Alm.) dan Ibu Hj. Ridawati, M.Pd \nPerum Mapagan, Ungaran Barat, Kab. Semarang \n\n dengan"
+                    android:textAlignment="center"
+                    android:textSize="14dp" />
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/kittenswash"
+                    android:text="Ahmad Arif Faizin, S.T"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Putra Bapak Moch. Khumaidi dan Ibu Maf'ulah \nKupang Tanjungsari, Ambarawa, Kab. Semarang\n"
+                    android:textAlignment="center"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Untuk beribadah kepada-Mu, melaksanakan sunnah Rasul-Mu
+dalam membentuk keluarga sakinah, mawaddah, wa rahmah
+di bawah ridho dan ampunan Allah Subhanahu wa ta'ala\n"
+                    android:textAlignment="center"
+                    android:textSize="14dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila
+Bapak/Ibu/Saudara/i hadir memberikan doa restu kepada putra-putri kami.
+Atas kehadiran dan doanya, kami ucapkan Jazakallahu khairan katsiran.
+Semoga Allah balas dengan kebaikan.\n"
+                    android:textAlignment="center"
+                    android:textSize="14dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/vagrounded"
+                    android:text="Wassalamu'alaikum wa rahmatullahi wa barakatuh"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+
+        <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@color/colorPrimary"-->
+        <!--android:fontFamily="@font/hensa"-->
+        <!--android:padding="8dp"-->
+        <!--android:text="AKAD"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:textSize="20sp"-->
+        <!--android:visibility="invisible"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintLeft_toLeftOf="parent"-->
+        <!--app:layout_constraintRight_toRightOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent" />-->
+        <!---->
+    </ScrollView>
+
+</LinearLayout>
